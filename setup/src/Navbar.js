@@ -39,7 +39,7 @@ const Navbar = () => {
             </li>
             <li>
               <button className='link-btn' onMouseOver={displayMenu}>
-                developer
+                developers
               </button>
             </li>
             <li>
